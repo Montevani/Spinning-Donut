@@ -3,4 +3,5 @@ In short I remade the popular spinning donut code, originally created in C back 
 Simply run the code and an extremely charismatic donut will start spinning on your screen!
 You can find more info on the original spinning donut made by Andy Sloane and all the math behind it here: https://www.a1k0n.net/2011/07/20/donut-math.html
 
-![the code running](https://github.com/Montevani/Spinning-Donut/blob/master/DonutGif.gif)![the actual code](https://github.com/Montevani/Spinning-Donut/blob/master/DonutCode.jpg?raw=true)
+![the code running](https://github.com/Montevani/Spinning-Donut/blob/master/DonutGif.gif)
+![the actual code](https://github.com/Montevani/Spinning-Donut/blob/master/DonutCode.jpg?raw=true)
